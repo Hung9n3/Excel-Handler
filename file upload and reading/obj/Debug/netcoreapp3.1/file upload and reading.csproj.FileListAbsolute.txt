@@ -1,0 +1,68 @@
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.exe
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.AssemblyInfo.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.RazorComponent.input.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FileInput.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.RazorAssemblyInfo.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.RazorAssemblyInfo.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.TagHelpers.input.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.TagHelpers.output.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.RazorCoreGenerate.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.RazorTargetAssemblyInfo.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.RazorTargetAssemblyInfo.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\staticwebassets\file upload and reading.StaticWebAssets.Manifest.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\staticwebassets\file upload and reading.StaticWebAssets.xml
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.StaticWebAssets.xml
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.deps.json
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.runtimeconfig.json
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.runtimeconfig.dev.json
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.pdb
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.Views.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\file upload and reading.Views.pdb
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.Views.pdb
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.csproj.CopyComplete
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.pdb
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.genruntimeconfig.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\RazorDeclaration\file upload and reading.dll
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Pages\FileInput.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\chova\source\repos\file upload and reading\file upload and reading\obj\Debug\netcoreapp3.1\file upload and reading.csprojAssemblyReference.cache

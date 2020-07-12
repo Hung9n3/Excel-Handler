@@ -1,0 +1,98 @@
+﻿@using BlazorInputFile
+@using System.IO
+@using file_upload_and_reading.Services
+@using file_upload_and_reading.Data
+@inject IFileUpload fileUpload
+@inject IJSRuntime iJSRuntime;
+@page "/FileInput"
+<h3>FileInput</h3>
+<div style="display:flex">
+    <div style="margin:10px">
+        <InputFile OnChange="HandleFileSelected"></InputFile>
+
+        
+        @*<input type="button" class="btn btn-primary" @onclick="@ShowExcel" value="ShowExcel" />*@
+        @if (students == null)
+        {
+            <p>loading.........:v</p>
+        }
+        else
+        {<table cellpadding="0" cellspacing="0" border="1">
+
+                @foreach (Students student in students)
+                {
+                    <tr>
+                        <td>Name:@student.Name</td>
+                        <td>Role:@student.Role</td>
+                        <td>Email:@student.Email</td>
+                    </tr>
+                }
+            </table>}
+    </div>
+    <div style="margin:10px">
+        <InputFile OnChange="HandleFileSelected2"></InputFile>
+
+        
+        @*<input type="button" class="btn btn-primary" @onclick="@ShowExcel2" value="ShowExcel" />*@
+        @if (students == null)
+        {
+            <p>loading.........:v</p>
+        }
+        else
+        {<table cellpadding="0" cellspacing="0" border="1">
+
+                @foreach (Students2 student in students2)
+                {
+                    <tr>
+                        <td>Name:@student.Name</td>
+                        <td>Role:@student.Role</td>
+                        <td>Email:@student.Email</td>
+                    </tr>
+                }
+            </table>}
+    </div>
+</div>
+<button class="btn btn-primary" @onclick="GenerateExcel"> GenerateExcel </button>
+@code {
+    public List<Students> students = new List<Students>();
+    public List<Students2> students2 = new List<Students2>();
+    IFileListEntry file;
+    async Task HandleFileSelected(IFileListEntry[] files)
+    {
+        file = files.FirstOrDefault();
+        if (file != null)
+        {
+            await fileUpload.UploadAsync(file);
+            students = fileUpload.GetStudents();
+        }
+    }
+    IFileListEntry file2;
+    async Task HandleFileSelected2(IFileListEntry[] files)
+    {
+        file2 = files.FirstOrDefault();
+        if (file != null)
+        {
+            await fileUpload.UploadAsync2(file2);
+            students2 = fileUpload.GetStudents2s();
+        }
+    }
+    //protected void ShowExcel()
+    //{
+    //    students = fileUpload.GetStudents();
+
+    //}
+    //protected void ShowExcel2()
+    //{
+    //    students2 = fileUpload.GetStudents2s();
+
+    //}
+    private void GenerateExcel()
+    {
+        
+        fileUpload.GenerateExcel(iJSRuntime);
+    }
+    //protected override void OnInitialized()
+    //{
+    //    ShowExcel();
+    //}
+}
